@@ -1,0 +1,1 @@
+web: gunicorn trevin.wsgi --log-file -
